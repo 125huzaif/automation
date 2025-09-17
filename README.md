@@ -5,18 +5,18 @@ NO manual uploading is done
 Uploading a Selenium WebDriver project with Java and TestNG to GitHub generally involves using Git commands to connect your local project to a new or existing GitHub repository
 Here is concize guide.
 
-Step 1: Initialize Git and stage your files
+**Step 1: Initialize Git and stage your files**
 1)  **git init**
 2)  **git add .**
 
-
-Step 2: Commit your files
+**
+**Step 2: Commit your files**
 Next, create your first commit. The commit message should be a brief description of the changes you're saving.
 
-3) **git commit -m "Initial commit of Selenium TestNG project" **        //message can be any
+3) **git commit -m "Initial commit of Selenium TestNG project" **        //commit message can be any
 
 
-Step 3: Connect to GitHub and Push
+****Step 3: Connect to GitHub and Push
 Now, create a new empty repository on GitHub. Do not initialize it with a README, .gitignore, or license file. Once created, copy the URL of the remote repository. 
 Then, back in your terminal, add the remote repository as the "origin" for your local project and push your committed code to it.
 
